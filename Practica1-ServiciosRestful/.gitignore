@@ -1,0 +1,11 @@
+/build/
+*/build/*
+/target/
+*/target/*
+/desarrollo/
+*/desarrollo/*
+*.classpath
+*.project
+*.class
+*/settings/*
+*.settings
